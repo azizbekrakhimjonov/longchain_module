@@ -1,7 +1,7 @@
 GEMN
 
 ```commandline
-AIzaSyC3QY7iDVkJnHN28fP3L1DJVHsPVpJGzzE
+AIzaSyC3QY7iDVkJnHffN28fP3L1DJllVHsPVpJGzzE
 ```
 
 https://aistudio.google.com/apikey
